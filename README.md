@@ -1,2 +1,2 @@
-# Soluciones ICPC
-Soluciones para ICPC qualifier 2025 by Derek Naharai Herrera Domínguez
+# The 2025 ICPC Caribbean Finals (Qualifier)
+Solutions for 2025 ICPC Caribbean Finals (Qualifier)´s problems by Derek Naharai Herrera Domínguez
